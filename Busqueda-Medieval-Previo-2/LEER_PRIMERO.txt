@@ -1,0 +1,28 @@
+BÚSQUEDA MEDIEVAL - PREVIO 2 (TALLER PRÁCTICO 3)
+
+Autores:
+- Yezid Santiago Fontecha Pazos
+- Samuel David Gonzales Saavedra
+
+Versión del editor usada como objetivo: Unity 6.3 LTS (6000.3.24f1)
+Abrir en Unity Hub la carpeta completa que contiene Assets, Packages y ProjectSettings.
+Abrir Assets/Scenes/MainMenu.unity y pulsar Play.
+
+CONTROLES
+A/D o flechas: caminar
+E cerca del sabio: avanzar diálogo
+E cerca del libro o cartel: leer / cerrar información
+Tocar los 5 pergaminos: recoger y sumar al HUD.
+
+COMPROBAR
+- Abrir menú y créditos y entrar con JUGAR.
+- Hablar con NPC_Guia (a la IZQUIERDA del punto de partida).
+- Interactuar con el libro (x=3) y cartel (x=21).
+- Recoger los 5 pergaminos (x=-2,7,16,25,34).
+- Comprobar que el HUD cambia de 0/5 a 5/5 y aparece MISIÓN CUMPLIDA.
+- Reiniciar juego y confirmar 0/5.
+- Comprobar Console sin errores.
+
+RESTRICCIÓN DE VERIFICACIÓN: Se ha analizado la estructura, scripts, GUID y
+referencias de los assets fuera del editor. El proyecto DEBE probarse también
+en Unity antes de declarar P1-P10 aprobadas o crear el build final.
